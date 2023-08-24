@@ -1,6 +1,6 @@
 {
   "name": "vuetable-2",
-  "version": "1.7.5",
+  "version": "1.7.6",
   "description": "Datatable component for Vue 2.x",
   "main": "dist/vuetable-2.js",
   "license": "MIT",
@@ -43,7 +43,7 @@
     "test": "npm run unit && npm run e2e"
   },
   "dependencies": {
-    "axios": "^0.15.3"
+    "axios": "~0.21.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
